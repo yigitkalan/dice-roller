@@ -30,9 +30,9 @@ GitLab Guideline
 4. On Android Studio, change Project view from "Android" to "Project"
 5. `ANDROID STUDIO - ADD REMOTE`: On Android Studio, Click Git->Manage Remotes. Then click "+" button then paste your forked repository URL. You can find the HTTP URL of your repository by clicking Clone button.
 6. `ANDROID STUDIO - ADD FETCH`: On Android Studio, click Git->Fetch.
-7. tip: `ANDROID STUDIO - CREATE MAIN BRANCH`: Then on the bottom right sight of the Android Studio, click "master" branch, then click "New Branch". Then create a branch with a name of "main".
-8. `ANDROID STUDIO - PULL REPO TO CURRENT BRANCH`: On Android Studio, click Git->Pull. Then select git pull - origin - main. And click Pull.
-9. Complete your Project. 
+7. `ANDROID STUDIO - PULL REPO TO CURRENT BRANCH`: On Android Studio, click Git->Pull. Then select git pull - origin - main. And click Pull.
+8. tip: `ANDROID STUDIO - CREATE MAIN BRANCH`: Then on the bottom right sight of the Android Studio, click "master" branch, then click "New Branch". Then create a branch with a name of "main".
+9. **COMPLETE YOUR PROJECT**. 
 10. `ANDROID STUDIO - COMMIT AND PUSH`: On Android Studio, click Git->Commit. New box will open on the left side of IDE. Check the checkbox "Unversioned Files" (Check every file). Below, write a commit massage that describes your changes such as "Second dice is implemented" or "First commit". Then click "Commit and Push" button.
 11. If you make any changes on your project later you can commit and push the project again. 
 12. `GITLAB - CREATE MERGE REQUEST` - If you want to turn in your project open the project on Gitlab. Click "Merge Request" on the left panel. Click "New Merge Request". Then select your main branch as source branch. Then click "Compare branches and continue". 
