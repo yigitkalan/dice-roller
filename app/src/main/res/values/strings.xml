@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roll The Dice</string>
+    <string name="jwl_sard">Here will be a dice expressed in a number</string>
+    <string name="roll">Roll</string>
+</resources>
